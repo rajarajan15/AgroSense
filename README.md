@@ -4,7 +4,7 @@
 
 This project is an **IoT-based Crop Prediction System** that integrates real-time sensor data with intelligent algorithms to recommend the most suitable crops for farming. It is designed to assist farmers in making data-driven decisions using environmental inputs collected from IoT devices deployed in the field.
 
-Each IoT device is paired with a dedicated application that captures sensor data such as temperature, humidity, soil moisture, and pH. The application then communicates with a backend prediction model to determine the ideal crop for current conditions.
+Each IoT device is paired with a dedicated application that captures sensor data such as N, P, K, temperature, humidity, soil moisture, and pH. The application then communicates with a backend prediction model to determine the ideal crop for current conditions.
 
 ---
 
